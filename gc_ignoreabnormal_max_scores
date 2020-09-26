@@ -1,0 +1,714 @@
+
+training set : 80.0%
+maxscore of LinearRegression():
+0.5605567269654257
+maxscore of SGDRegressor():
+0.6175426258759701
+maxscore of Ridge():
+0.4940317734412223
+maxscore of KNeighborsRegressor():
+0.8655712511455129
+maxscore of SVR():
+0.7776913056994607
+maxscore of Lasso():
+0.34432184635864094
+maxscore of DecisionTreeRegressor():
+0.922693859674649
+maxscore of ExtraTreeRegressor():
+0.9422440630220622
+maxscore of XGBRegressor(base_score=0.5, booster='gbtree', colsample_bylevel=1,
+             colsample_bynode=1, colsample_bytree=1, gamma=0, gpu_id=-1,
+             importance_type='gain', interaction_constraints='',
+             learning_rate=0.300000012, max_delta_step=0, max_depth=6,
+             min_child_weight=1, missing=nan, monotone_constraints='()',
+             n_estimators=100, n_jobs=0, num_parallel_tree=1, random_state=0,
+             reg_alpha=0, reg_lambda=1, scale_pos_weight=1, subsample=1,
+             tree_method='exact', validate_parameters=1, verbosity=None):
+0.8862611634745907
+maxscore of RandomForestRegressor():
+0.8839679888434849
+maxscore of AdaBoostRegressor():
+0.8781661714967872
+maxscore of GradientBoostingRegressor():
+0.8631827911098766
+maxscore of BaggingRegressor():
+0.8717510745312453
+
+max score:
+ExtraTreeRegressor()0.9422440630220622
+training set : 80.0%
+maxscore of ExtraTreeRegressor(max_leaf_nodes=2):
+0.6629285993977196
+maxscore of ExtraTreeRegressor(max_leaf_nodes=3):
+0.662600616543921
+maxscore of ExtraTreeRegressor(max_leaf_nodes=4):
+0.811335382802348
+maxscore of ExtraTreeRegressor(max_leaf_nodes=5):
+0.8404147084854016
+maxscore of ExtraTreeRegressor(max_leaf_nodes=6):
+0.8137276400337704
+maxscore of ExtraTreeRegressor(max_leaf_nodes=7):
+0.8380722913229557
+maxscore of ExtraTreeRegressor(max_leaf_nodes=8):
+0.8581715098021405
+maxscore of ExtraTreeRegressor(max_leaf_nodes=9):
+0.8921177931790341
+maxscore of ExtraTreeRegressor(max_leaf_nodes=10):
+0.9357630975488547
+maxscore of ExtraTreeRegressor(max_leaf_nodes=11):
+0.878024810007198
+maxscore of ExtraTreeRegressor(max_leaf_nodes=12):
+0.8768012464976738
+maxscore of ExtraTreeRegressor(max_leaf_nodes=13):
+0.9119268707039632
+maxscore of ExtraTreeRegressor(max_leaf_nodes=14):
+0.9088323883065356
+maxscore of ExtraTreeRegressor(max_leaf_nodes=15):
+0.8936557967124907
+maxscore of ExtraTreeRegressor(max_leaf_nodes=16):
+0.9492999582867423
+maxscore of ExtraTreeRegressor(max_leaf_nodes=17):
+0.9160160845435086
+maxscore of ExtraTreeRegressor(max_leaf_nodes=18):
+0.9082916506417943
+maxscore of ExtraTreeRegressor(max_leaf_nodes=19):
+0.9143385323921978
+maxscore of ExtraTreeRegressor(max_leaf_nodes=20):
+0.9083328415358006
+maxscore of ExtraTreeRegressor(max_leaf_nodes=21):
+0.9384921328564021
+maxscore of ExtraTreeRegressor(max_leaf_nodes=22):
+0.9432223585964864
+maxscore of ExtraTreeRegressor(max_leaf_nodes=23):
+0.9220389114656948
+maxscore of ExtraTreeRegressor(max_leaf_nodes=24):
+0.9177319776736443
+maxscore of ExtraTreeRegressor(max_leaf_nodes=25):
+0.9161462407999075
+maxscore of ExtraTreeRegressor(max_leaf_nodes=26):
+0.9105837383146222
+maxscore of ExtraTreeRegressor(max_leaf_nodes=27):
+0.9372774055178585
+maxscore of ExtraTreeRegressor(max_leaf_nodes=28):
+0.9129453954402319
+maxscore of ExtraTreeRegressor(max_leaf_nodes=29):
+0.9488026736498865
+maxscore of ExtraTreeRegressor(max_leaf_nodes=30):
+0.898121120750209
+maxscore of ExtraTreeRegressor(max_leaf_nodes=31):
+0.9263890870517569
+maxscore of ExtraTreeRegressor(max_leaf_nodes=32):
+0.9214799070234673
+maxscore of ExtraTreeRegressor(max_leaf_nodes=33):
+0.9240709384592426
+maxscore of ExtraTreeRegressor(max_leaf_nodes=34):
+0.9175207209989313
+maxscore of ExtraTreeRegressor(max_leaf_nodes=35):
+0.8938840029161272
+maxscore of ExtraTreeRegressor(max_leaf_nodes=36):
+0.9268541061895027
+maxscore of ExtraTreeRegressor(max_leaf_nodes=37):
+0.898475475721729
+maxscore of ExtraTreeRegressor(max_leaf_nodes=38):
+0.9136789132704013
+maxscore of ExtraTreeRegressor(max_leaf_nodes=39):
+0.8841733230369809
+maxscore of ExtraTreeRegressor(max_leaf_nodes=40):
+0.9085546767468367
+maxscore of ExtraTreeRegressor(max_leaf_nodes=41):
+0.8876060639217107
+maxscore of ExtraTreeRegressor(max_leaf_nodes=42):
+0.8879803783018458
+maxscore of ExtraTreeRegressor(max_leaf_nodes=43):
+0.9299021099765169
+maxscore of ExtraTreeRegressor(max_leaf_nodes=44):
+0.8962760509511907
+maxscore of ExtraTreeRegressor(max_leaf_nodes=45):
+0.8897234689041322
+maxscore of ExtraTreeRegressor(max_leaf_nodes=46):
+0.9192659860875391
+maxscore of ExtraTreeRegressor(max_leaf_nodes=47):
+0.9512747283966317
+maxscore of ExtraTreeRegressor(max_leaf_nodes=48):
+0.8933011662577544
+maxscore of ExtraTreeRegressor(max_leaf_nodes=49):
+0.9136374053858793
+maxscore of ExtraTreeRegressor(max_leaf_nodes=50):
+0.9433551282241616
+maxscore of ExtraTreeRegressor(max_leaf_nodes=51):
+0.9475428919223626
+maxscore of ExtraTreeRegressor(max_leaf_nodes=52):
+0.934888220642963
+maxscore of ExtraTreeRegressor(max_leaf_nodes=53):
+0.9251451346116434
+maxscore of ExtraTreeRegressor(max_leaf_nodes=54):
+0.9334627826260863
+maxscore of ExtraTreeRegressor(max_leaf_nodes=55):
+0.8885405732243569
+maxscore of ExtraTreeRegressor(max_leaf_nodes=56):
+0.8812739947150005
+maxscore of ExtraTreeRegressor(max_leaf_nodes=57):
+0.9332577873333853
+maxscore of ExtraTreeRegressor(max_leaf_nodes=58):
+0.9257748579713497
+maxscore of ExtraTreeRegressor(max_leaf_nodes=59):
+0.9083853563911497
+maxscore of ExtraTreeRegressor(max_leaf_nodes=60):
+0.8840479031063216
+maxscore of ExtraTreeRegressor(max_leaf_nodes=61):
+0.886725430886628
+maxscore of ExtraTreeRegressor(max_leaf_nodes=62):
+0.8999235939176188
+maxscore of ExtraTreeRegressor(max_leaf_nodes=63):
+0.9021264756801488
+maxscore of ExtraTreeRegressor(max_leaf_nodes=64):
+0.9380257398437327
+maxscore of ExtraTreeRegressor(max_leaf_nodes=65):
+0.9205775489647481
+maxscore of ExtraTreeRegressor(max_leaf_nodes=66):
+0.9377911077914518
+maxscore of ExtraTreeRegressor(max_leaf_nodes=67):
+0.8754803524233719
+maxscore of ExtraTreeRegressor(max_leaf_nodes=68):
+0.912280338527719
+maxscore of ExtraTreeRegressor(max_leaf_nodes=69):
+0.9296854778683835
+maxscore of ExtraTreeRegressor(max_leaf_nodes=70):
+0.8901900618870282
+maxscore of ExtraTreeRegressor(max_leaf_nodes=71):
+0.8953552691044329
+maxscore of ExtraTreeRegressor(max_leaf_nodes=72):
+0.8980795807196599
+maxscore of ExtraTreeRegressor(max_leaf_nodes=73):
+0.9152530230094742
+maxscore of ExtraTreeRegressor(max_leaf_nodes=74):
+0.9076940011758426
+maxscore of ExtraTreeRegressor(max_leaf_nodes=75):
+0.9002686492908187
+maxscore of ExtraTreeRegressor(max_leaf_nodes=76):
+0.8798238007505881
+maxscore of ExtraTreeRegressor(max_leaf_nodes=77):
+0.8454210755633667
+maxscore of ExtraTreeRegressor(max_leaf_nodes=78):
+0.9320159159526691
+maxscore of ExtraTreeRegressor(max_leaf_nodes=79):
+0.9298577762966436
+maxscore of ExtraTreeRegressor(max_leaf_nodes=80):
+0.9146672671465307
+maxscore of ExtraTreeRegressor(max_leaf_nodes=81):
+0.9324332685985985
+maxscore of ExtraTreeRegressor(max_leaf_nodes=82):
+0.9248733244441091
+maxscore of ExtraTreeRegressor(max_leaf_nodes=83):
+0.9274000760657529
+maxscore of ExtraTreeRegressor(max_leaf_nodes=84):
+0.8814835813115665
+maxscore of ExtraTreeRegressor(max_leaf_nodes=85):
+0.8917579758368497
+maxscore of ExtraTreeRegressor(max_leaf_nodes=86):
+0.9429734027879044
+maxscore of ExtraTreeRegressor(max_leaf_nodes=87):
+0.9114886135014826
+maxscore of ExtraTreeRegressor(max_leaf_nodes=88):
+0.9639945243301429
+maxscore of ExtraTreeRegressor(max_leaf_nodes=89):
+0.8844940657855971
+maxscore of ExtraTreeRegressor(max_leaf_nodes=90):
+0.9315240216182691
+maxscore of ExtraTreeRegressor(max_leaf_nodes=91):
+0.9228033392863075
+maxscore of ExtraTreeRegressor(max_leaf_nodes=92):
+0.9157558853222737
+maxscore of ExtraTreeRegressor(max_leaf_nodes=93):
+0.8818730467678454
+maxscore of ExtraTreeRegressor(max_leaf_nodes=94):
+0.9059199434514842
+maxscore of ExtraTreeRegressor(max_leaf_nodes=95):
+0.9313907027621557
+maxscore of ExtraTreeRegressor(max_leaf_nodes=96):
+0.9181221739873285
+maxscore of ExtraTreeRegressor(max_leaf_nodes=97):
+0.8863272776516544
+maxscore of ExtraTreeRegressor(max_leaf_nodes=98):
+0.9522845037659645
+maxscore of ExtraTreeRegressor(max_leaf_nodes=99):
+0.9051602108718109
+
+training set : 80.0%
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=2)):
+0.7648075170335579
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=2),
+                 n_estimators=11):
+0.7919479213950793
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=2),
+                 n_estimators=12):
+0.7750979887863751
+
+training set : 80.0%
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=2)):
+0.7950137521304448
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=3)):
+0.7697092059466831
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=4)):
+0.830342099088018
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=5)):
+0.853859594397521
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=6)):
+0.8418086870201987
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=7)):
+0.8450625784729993
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=8)):
+0.822894555095402
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=9)):
+0.8340249194978794
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=10)):
+0.8467185339672532
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=11)):
+0.89155419989978
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=12)):
+0.8431683890289103
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=13)):
+0.8778146616498176
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=14)):
+0.8382966807713872
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=15)):
+0.8252197647905112
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=16)):
+0.8578726694735493
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=17)):
+0.8494264832098645
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=18)):
+0.8052804420634675
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=19)):
+0.8499910890521345
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=20)):
+0.8654622939893749
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=21)):
+0.8793553342439934
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=22)):
+0.8353177795783704
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=23)):
+0.8707492797451627
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=24)):
+0.8505281344611594
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=25)):
+0.8614215600144575
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=26)):
+0.8902780797164757
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=27)):
+0.8335941451563026
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=28)):
+0.8601487237683569
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=29)):
+0.8753345973187702
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=30)):
+0.8507080114790546
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=31)):
+0.839815432365627
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=32)):
+0.8573883492252452
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=33)):
+0.8641425357815011
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=34)):
+0.8539712928386997
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=35)):
+0.8742633714047758
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=36)):
+0.9200684317285402
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=37)):
+0.8639645428762037
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=38)):
+0.8781551778219381
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=39)):
+0.8690006477307871
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=40)):
+0.8689924501062413
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=41)):
+0.8895730728113735
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=42)):
+0.8438008170327145
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=43)):
+0.8186649294184929
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=44)):
+0.8451468947133405
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=45)):
+0.8930217422120625
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=46)):
+0.8384878647123718
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=47)):
+0.88418811465453
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=48)):
+0.854517493887281
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=49)):
+0.8177142686273113
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=50)):
+0.8384586783683916
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=51)):
+0.8846955967485023
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=52)):
+0.8272806251619996
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=53)):
+0.8482957239411936
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=54)):
+0.8555733427409042
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=55)):
+0.8699768411563964
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=56)):
+0.8667331720457426
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=57)):
+0.8555104129106628
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=58)):
+0.8232466100424658
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=59)):
+0.815674436428852
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=60)):
+0.8665545187221986
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=61)):
+0.8218544098689611
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=62)):
+0.8120212453397371
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=63)):
+0.8375915242953664
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=64)):
+0.8730066172678044
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=65)):
+0.8734444200422173
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=66)):
+0.893246314644736
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=67)):
+0.8350245636475142
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=68)):
+0.8581816525294529
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=69)):
+0.8532485958894516
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=70)):
+0.8787445311232952
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=71)):
+0.8364975851662818
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=72)):
+0.8680144128526542
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=73)):
+0.8533714411122566
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=74)):
+0.8494023940179689
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=75)):
+0.8358701187293854
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=76)):
+0.862005148827549
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=77)):
+0.8718514314707451
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=78)):
+0.8486454623750739
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=79)):
+0.8314356257514905
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=80)):
+0.8616161489602014
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=81)):
+0.8538390469220369
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=82)):
+0.8476029304775906
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=83)):
+0.8577974166842255
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=84)):
+0.8514142581301674
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=85)):
+0.8697005538165707
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=86)):
+0.869518701511349
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=87)):
+0.8274563439583872
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=88)):
+0.9080841098391347
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=89)):
+0.8575198007507732
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=90)):
+0.8390644794276143
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=91)):
+0.8648900004005561
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=92)):
+0.9050246332053704
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=93)):
+0.8352393246100732
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=94)):
+0.8452154542486198
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=95)):
+0.8304967837730276
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=96)):
+0.8180674952728939
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=97)):
+0.812259167613092
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=98)):
+0.8430373377205217
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=99)):
+0.8334558014363644
+
+training set : 80.0%
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=36)):
+0.836707049026822
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=36),
+                 n_estimators=11):
+0.8708937400883735
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=36),
+                 n_estimators=12):
+0.8827180851407076
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=36),
+                 n_estimators=13):
+0.8504049812440783
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=36),
+                 n_estimators=14):
+0.8781365519150868
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=36),
+                 n_estimators=15):
+0.8705826432753829
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=36),
+                 n_estimators=16):
+0.823482630543151
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=36),
+                 n_estimators=17):
+0.8810103002297948
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=36),
+                 n_estimators=18):
+0.8255657414100417
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=36),
+                 n_estimators=19):
+0.8746954209486844
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=36),
+                 n_estimators=20):
+0.827588040899763
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=36),
+                 n_estimators=21):
+0.8371040727411883
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=36),
+                 n_estimators=22):
+0.8796332776184536
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=36),
+                 n_estimators=23):
+0.8415542055650916
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=36),
+                 n_estimators=24):
+0.8867139377312699
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=36),
+                 n_estimators=25):
+0.8297977786927364
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=36),
+                 n_estimators=26):
+0.8524726723164114
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=36),
+                 n_estimators=27):
+0.8639197209207388
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=36),
+                 n_estimators=28):
+0.8923238879579333
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=36),
+                 n_estimators=29):
+0.8034794224793825
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=36),
+                 n_estimators=30):
+0.8284458590057093
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=36),
+                 n_estimators=31):
+0.8404442172385
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=36),
+                 n_estimators=32):
+0.8904955996789088
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=36),
+                 n_estimators=33):
+0.8665119621165491
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=36),
+                 n_estimators=34):
+0.8509077500153707
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=36),
+                 n_estimators=35):
+0.9027747814099737
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=36),
+                 n_estimators=36):
+0.8697322818032676
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=36),
+                 n_estimators=37):
+0.8883273039217319
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=36),
+                 n_estimators=38):
+0.8805923261205042
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=36),
+                 n_estimators=39):
+0.8280943162373593
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=36),
+                 n_estimators=40):
+0.8632754962233943
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=36),
+                 n_estimators=41):
+0.8613729528647804
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=36),
+                 n_estimators=42):
+0.831617382325029
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=36),
+                 n_estimators=43):
+0.8582127515053807
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=36),
+                 n_estimators=44):
+0.8210872829279592
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=36),
+                 n_estimators=45):
+0.8803413271625797
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=36),
+                 n_estimators=46):
+0.8456069511351785
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=36),
+                 n_estimators=47):
+0.8648470777238461
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=36),
+                 n_estimators=48):
+0.841885832324493
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=36),
+                 n_estimators=49):
+0.8307488946415119
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=36),
+                 n_estimators=50):
+0.8782695549185499
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=36),
+                 n_estimators=51):
+0.9025784458978457
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=36),
+                 n_estimators=52):
+0.8496597568508334
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=36),
+                 n_estimators=53):
+0.8422033882639512
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=36),
+                 n_estimators=54):
+0.8499610981120981
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=36),
+                 n_estimators=55):
+0.8145073032871192
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=36),
+                 n_estimators=56):
+0.8423590387687889
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=36),
+                 n_estimators=57):
+0.8237011220689192
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=36),
+                 n_estimators=58):
+0.8295224925461314
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=36),
+                 n_estimators=59):
+0.8951441507312421
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=36),
+                 n_estimators=60):
+0.8627521678946104
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=36),
+                 n_estimators=61):
+0.8642718030447393
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=36),
+                 n_estimators=62):
+0.8618052303938349
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=36),
+                 n_estimators=63):
+0.8518367126512765
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=36),
+                 n_estimators=64):
+0.8881689315043704
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=36),
+                 n_estimators=65):
+0.8330549459843757
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=36),
+                 n_estimators=66):
+0.8527993793916339
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=36),
+                 n_estimators=67):
+0.8915409569939194
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=36),
+                 n_estimators=68):
+0.8472160104937286
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=36),
+                 n_estimators=69):
+0.8408045676579816
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=36),
+                 n_estimators=70):
+0.8594182091378921
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=36),
+                 n_estimators=71):
+0.8530747498710389
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=36),
+                 n_estimators=72):
+0.8225318673632835
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=36),
+                 n_estimators=73):
+0.8848269815890476
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=36),
+                 n_estimators=74):
+0.8562294027487654
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=36),
+                 n_estimators=75):
+0.8444711957286177
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=36),
+                 n_estimators=76):
+0.8609442160461054
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=36),
+                 n_estimators=77):
+0.8395670807970207
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=36),
+                 n_estimators=78):
+0.8734785890690668
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=36),
+                 n_estimators=79):
+0.8554052007426163
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=36),
+                 n_estimators=80):
+0.8673443347093608
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=36),
+                 n_estimators=81):
+0.8583216697576639
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=36),
+                 n_estimators=82):
+0.8368902885672647
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=36),
+                 n_estimators=83):
+0.8530462037922841
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=36),
+                 n_estimators=84):
+0.8613074597744699
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=36),
+                 n_estimators=85):
+0.8751405890969008
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=36),
+                 n_estimators=86):
+0.8507643149318452
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=36),
+                 n_estimators=87):
+0.8631929778005822
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=36),
+                 n_estimators=88):
+0.8516703270861893
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=36),
+                 n_estimators=89):
+0.8551002446224025
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=36),
+                 n_estimators=90):
+0.8565258891308896
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=36),
+                 n_estimators=91):
+0.8794999284613338
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=36),
+                 n_estimators=92):
+0.8665387500174995
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=36),
+                 n_estimators=93):
+0.8579032519179413
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=36),
+                 n_estimators=94):
+0.831683071823229
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=36),
+                 n_estimators=95):
+0.8398269454857322
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=36),
+                 n_estimators=96):
+0.8619885228919419
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=36),
+                 n_estimators=97):
+0.8377402691903029
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=36),
+                 n_estimators=98):
+0.8755383983184251
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=36),
+                 n_estimators=99):
+0.8533985652113891

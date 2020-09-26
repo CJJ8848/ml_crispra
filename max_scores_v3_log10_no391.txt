@@ -1,0 +1,136 @@
+
+training set : 80.0%
+maxscore of LinearRegression():
+0.7064213160021638
+maxscore of SGDRegressor():
+0.7186766487483671
+maxscore of Ridge():
+0.7070975675232258
+maxscore of KNeighborsRegressor():
+0.8314733328951036
+maxscore of SVR():
+0.7675542628387129
+maxscore of Lasso():
+0.2827178653068553
+maxscore of DecisionTreeRegressor():
+0.848274892994068
+maxscore of ExtraTreeRegressor():
+0.8143516872558447
+maxscore of XGBRegressor(base_score=0.5, booster='gbtree', colsample_bylevel=1,
+             colsample_bynode=1, colsample_bytree=1, gamma=0, gpu_id=-1,
+             importance_type='gain', interaction_constraints='',
+             learning_rate=0.300000012, max_delta_step=0, max_depth=6,
+             min_child_weight=1, missing=nan, monotone_constraints='()',
+             n_estimators=100, n_jobs=0, num_parallel_tree=1, random_state=0,
+             reg_alpha=0, reg_lambda=1, scale_pos_weight=1, subsample=1,
+             tree_method='exact', validate_parameters=1, verbosity=None):
+0.8407848106184469
+maxscore of RandomForestRegressor():
+0.8379902338392088
+maxscore of AdaBoostRegressor():
+0.8001398119035812
+maxscore of GradientBoostingRegressor():
+0.8682656146470198
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=36)):
+0.8402824847904068
+maxscore of BaggingRegressor():
+0.8443179833408441
+
+max score:
+GradientBoostingRegressor()0.8682656146470198
+
+
+training set : 80.0%
+maxscore of LinearRegression():
+0.7455990642098216
+maxscore of SGDRegressor():
+0.7041255944369174
+maxscore of Ridge():
+0.7322015637232759
+maxscore of KNeighborsRegressor():
+0.8164579758431387
+maxscore of SVR():
+0.7760813689082594
+maxscore of Lasso():
+0.34173160977233574
+maxscore of DecisionTreeRegressor():
+0.782800352873283
+maxscore of ExtraTreeRegressor():
+0.823199888277392
+maxscore of XGBRegressor(base_score=0.5, booster='gbtree', colsample_bylevel=1,
+             colsample_bynode=1, colsample_bytree=1, gamma=0, gpu_id=-1,
+             importance_type='gain', interaction_constraints='',
+             learning_rate=0.300000012, max_delta_step=0, max_depth=6,
+             min_child_weight=1, missing=nan, monotone_constraints='()',
+             n_estimators=100, n_jobs=0, num_parallel_tree=1, random_state=0,
+             reg_alpha=0, reg_lambda=1, scale_pos_weight=1, subsample=1,
+             tree_method='exact', validate_parameters=1, verbosity=None):
+0.8937066159700687
+maxscore of RandomForestRegressor():
+0.8546888024470661
+maxscore of AdaBoostRegressor():
+0.8061078248159659
+maxscore of GradientBoostingRegressor():
+0.862848601416677
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=36)):
+0.8414069803846803
+maxscore of BaggingRegressor():
+0.8152725612850048
+
+max score:
+XGBRegressor(base_score=0.5, booster='gbtree', colsample_bylevel=1,
+             colsample_bynode=1, colsample_bytree=1, gamma=0, gpu_id=-1,
+             importance_type='gain', interaction_constraints='',
+             learning_rate=0.300000012, max_delta_step=0, max_depth=6,
+             min_child_weight=1, missing=nan, monotone_constraints='()',
+             n_estimators=100, n_jobs=0, num_parallel_tree=1, random_state=0,
+             reg_alpha=0, reg_lambda=1, scale_pos_weight=1, subsample=1,
+             tree_method='exact', validate_parameters=1, verbosity=None)0.8937066159700687
+
+
+training set : 80.0%
+maxscore of LinearRegression():
+0.7246176140901104
+maxscore of SGDRegressor():
+0.7065624554361385
+maxscore of Ridge():
+0.7633900606057702
+maxscore of KNeighborsRegressor():
+0.8454704187053226
+maxscore of SVR():
+0.7946368111408344
+maxscore of Lasso():
+0.27287089140229825
+maxscore of DecisionTreeRegressor():
+0.782357376371166
+maxscore of ExtraTreeRegressor():
+0.8432951535991475
+maxscore of XGBRegressor(base_score=0.5, booster='gbtree', colsample_bylevel=1,
+             colsample_bynode=1, colsample_bytree=1, gamma=0, gpu_id=-1,
+             importance_type='gain', interaction_constraints='',
+             learning_rate=0.300000012, max_delta_step=0, max_depth=6,
+             min_child_weight=1, missing=nan, monotone_constraints='()',
+             n_estimators=100, n_jobs=0, num_parallel_tree=1, random_state=0,
+             reg_alpha=0, reg_lambda=1, scale_pos_weight=1, subsample=1,
+             tree_method='exact', validate_parameters=1, verbosity=None):
+0.889603543852249
+maxscore of RandomForestRegressor():
+0.8734931038869571
+maxscore of AdaBoostRegressor():
+0.8290708860125109
+maxscore of GradientBoostingRegressor():
+0.8552051783198493
+maxscore of BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=36)):
+0.8566205164847482
+maxscore of BaggingRegressor():
+0.8531935919069512
+
+max score:
+XGBRegressor(base_score=0.5, booster='gbtree', colsample_bylevel=1,
+             colsample_bynode=1, colsample_bytree=1, gamma=0, gpu_id=-1,
+             importance_type='gain', interaction_constraints='',
+             learning_rate=0.300000012, max_delta_step=0, max_depth=6,
+             min_child_weight=1, missing=nan, monotone_constraints='()',
+             n_estimators=100, n_jobs=0, num_parallel_tree=1, random_state=0,
+             reg_alpha=0, reg_lambda=1, scale_pos_weight=1, subsample=1,
+             tree_method='exact', validate_parameters=1, verbosity=None)0.889603543852249

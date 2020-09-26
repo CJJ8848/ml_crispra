@@ -1,0 +1,3 @@
+---with gc content
+max score: DecisionTreeRegressor(max_leaf_nodes=25)
+0.9589905753893961

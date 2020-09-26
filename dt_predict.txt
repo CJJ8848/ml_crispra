@@ -1,0 +1,24 @@
+
+training set : 80.0%
+maxscore of DecisionTreeRegressor():
+0.7773925219640275
+
+training set : 80.0%
+maxscore of DecisionTreeRegressor():
+0.8025774748105565
+
+training set : 80.0%
+maxscore of DecisionTreeRegressor():
+0.8536953319964835
+
+training set : 80.0%
+maxscore of DecisionTreeRegressor():
+0.8077585698792344
+
+training set : 80.0%
+maxscore of DecisionTreeRegressor():
+0.8462857124375288
+
+training set : 80.0%
+maxscore of DecisionTreeRegressor():
+0.8675412789217162

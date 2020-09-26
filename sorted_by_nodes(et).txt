@@ -1,0 +1,3 @@
+---with gc content
+max score: ExtraTreeRegressor(max_leaf_nodes=88)
+0.9639945243301429

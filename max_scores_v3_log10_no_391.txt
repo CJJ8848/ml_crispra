@@ -1,0 +1,14 @@
+
+training set : 80.0%
+maxscore of LinearRegression():
+0.7175804217946335
+maxscore of SGDRegressor():
+0.756363797307484
+maxscore of Ridge():
+0.6834141825943246
+maxscore of SVR():
+0.8053423700011446
+maxscore of Lasso():
+0.27721907041775673
+maxscore of DecisionTreeRegressor():
+0.840311432219802

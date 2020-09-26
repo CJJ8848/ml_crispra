@@ -1,0 +1,4 @@
+
+max score: BaggingRegressor(base_estimator=DecisionTreeRegressor(max_leaf_nodes=36),
+                 n_estimators=35)
+0.9027747814099737

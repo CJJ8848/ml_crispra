@@ -1,0 +1,404 @@
+
+training set : 80.0%
+maxscore of DecisionTreeRegressor(max_leaf_nodes=10):
+0.7988420082475532
+maxscore of DecisionTreeRegressor(max_leaf_nodes=11):
+0.824988733811645
+maxscore of DecisionTreeRegressor(max_leaf_nodes=12):
+0.8504029693331684
+maxscore of DecisionTreeRegressor(max_leaf_nodes=13):
+0.8393918862043251
+maxscore of DecisionTreeRegressor(max_leaf_nodes=14):
+0.7669263218791273
+maxscore of DecisionTreeRegressor(max_leaf_nodes=15):
+0.8009379964428024
+maxscore of DecisionTreeRegressor(max_leaf_nodes=16):
+0.7911918722185646
+maxscore of DecisionTreeRegressor(max_leaf_nodes=17):
+0.8752811753428222
+maxscore of DecisionTreeRegressor(max_leaf_nodes=18):
+0.8373999009888927
+maxscore of DecisionTreeRegressor(max_leaf_nodes=19):
+0.807895439380403
+maxscore of DecisionTreeRegressor(max_leaf_nodes=20):
+0.7762303545903371
+maxscore of DecisionTreeRegressor(max_leaf_nodes=21):
+0.7931937541155177
+maxscore of DecisionTreeRegressor(max_leaf_nodes=22):
+0.7709333667000912
+maxscore of DecisionTreeRegressor(max_leaf_nodes=23):
+0.8485875510024259
+maxscore of DecisionTreeRegressor(max_leaf_nodes=24):
+0.7477449714545452
+maxscore of DecisionTreeRegressor(max_leaf_nodes=25):
+0.7210857659061662
+maxscore of DecisionTreeRegressor(max_leaf_nodes=26):
+0.8041684985701304
+maxscore of DecisionTreeRegressor(max_leaf_nodes=27):
+0.8766584911197679
+maxscore of DecisionTreeRegressor(max_leaf_nodes=28):
+0.8202713601789514
+maxscore of DecisionTreeRegressor(max_leaf_nodes=29):
+0.7891285913980445
+maxscore of DecisionTreeRegressor(max_leaf_nodes=30):
+0.7937684523421911
+maxscore of DecisionTreeRegressor(max_leaf_nodes=31):
+0.8014308545869563
+maxscore of DecisionTreeRegressor(max_leaf_nodes=32):
+0.82015856346029
+maxscore of DecisionTreeRegressor(max_leaf_nodes=33):
+0.8441509124086237
+maxscore of DecisionTreeRegressor(max_leaf_nodes=34):
+0.7806439814434618
+maxscore of DecisionTreeRegressor(max_leaf_nodes=35):
+0.7789810527823556
+maxscore of DecisionTreeRegressor(max_leaf_nodes=36):
+0.7064445841180338
+maxscore of DecisionTreeRegressor(max_leaf_nodes=37):
+0.7885694730815282
+maxscore of DecisionTreeRegressor(max_leaf_nodes=38):
+0.8519367460243863
+maxscore of DecisionTreeRegressor(max_leaf_nodes=39):
+0.7611467539743254
+maxscore of DecisionTreeRegressor(max_leaf_nodes=40):
+0.7968762771240285
+maxscore of DecisionTreeRegressor(max_leaf_nodes=41):
+0.8082426259276758
+maxscore of DecisionTreeRegressor(max_leaf_nodes=42):
+0.7929978295930735
+maxscore of DecisionTreeRegressor(max_leaf_nodes=43):
+0.7290814706313931
+maxscore of DecisionTreeRegressor(max_leaf_nodes=44):
+0.8335360298923624
+maxscore of DecisionTreeRegressor(max_leaf_nodes=45):
+0.7638615122245773
+maxscore of DecisionTreeRegressor(max_leaf_nodes=46):
+0.8312171024485093
+maxscore of DecisionTreeRegressor(max_leaf_nodes=47):
+0.7295716170586922
+maxscore of DecisionTreeRegressor(max_leaf_nodes=48):
+0.7366608726571924
+maxscore of DecisionTreeRegressor(max_leaf_nodes=49):
+0.78534786400745
+maxscore of DecisionTreeRegressor(max_leaf_nodes=50):
+0.7856859926376558
+maxscore of DecisionTreeRegressor(max_leaf_nodes=51):
+0.7718426852826028
+maxscore of DecisionTreeRegressor(max_leaf_nodes=52):
+0.7731626325889196
+maxscore of DecisionTreeRegressor(max_leaf_nodes=53):
+0.8316829255989795
+maxscore of DecisionTreeRegressor(max_leaf_nodes=54):
+0.8690939352704918
+maxscore of DecisionTreeRegressor(max_leaf_nodes=55):
+0.8712265556819511
+maxscore of DecisionTreeRegressor(max_leaf_nodes=56):
+0.7433343040556131
+maxscore of DecisionTreeRegressor(max_leaf_nodes=57):
+0.8411786482255135
+maxscore of DecisionTreeRegressor(max_leaf_nodes=58):
+0.7835450499615091
+maxscore of DecisionTreeRegressor(max_leaf_nodes=59):
+0.7894120287939568
+maxscore of DecisionTreeRegressor(max_leaf_nodes=60):
+0.7939722452330373
+maxscore of DecisionTreeRegressor(max_leaf_nodes=61):
+0.8328349496408378
+maxscore of DecisionTreeRegressor(max_leaf_nodes=62):
+0.7901388470308834
+maxscore of DecisionTreeRegressor(max_leaf_nodes=63):
+0.7888022154037532
+maxscore of DecisionTreeRegressor(max_leaf_nodes=64):
+0.8114895489743683
+maxscore of DecisionTreeRegressor(max_leaf_nodes=65):
+0.7997243731970111
+maxscore of DecisionTreeRegressor(max_leaf_nodes=66):
+0.7735481738201823
+maxscore of DecisionTreeRegressor(max_leaf_nodes=67):
+0.7605248062514339
+maxscore of DecisionTreeRegressor(max_leaf_nodes=68):
+0.875340649302748
+maxscore of DecisionTreeRegressor(max_leaf_nodes=69):
+0.7796313588980519
+maxscore of DecisionTreeRegressor(max_leaf_nodes=70):
+0.7811213007883102
+maxscore of DecisionTreeRegressor(max_leaf_nodes=71):
+0.8187014687987222
+maxscore of DecisionTreeRegressor(max_leaf_nodes=72):
+0.8299199178288406
+maxscore of DecisionTreeRegressor(max_leaf_nodes=73):
+0.7761269354005117
+maxscore of DecisionTreeRegressor(max_leaf_nodes=74):
+0.7748556436297925
+maxscore of DecisionTreeRegressor(max_leaf_nodes=75):
+0.7434994764988891
+maxscore of DecisionTreeRegressor(max_leaf_nodes=76):
+0.7211430503631153
+maxscore of DecisionTreeRegressor(max_leaf_nodes=77):
+0.7161016303245167
+maxscore of DecisionTreeRegressor(max_leaf_nodes=78):
+0.8202697183948093
+maxscore of DecisionTreeRegressor(max_leaf_nodes=79):
+0.7568189454938382
+maxscore of DecisionTreeRegressor(max_leaf_nodes=80):
+0.7921544753464573
+maxscore of DecisionTreeRegressor(max_leaf_nodes=81):
+0.7263444730427207
+maxscore of DecisionTreeRegressor(max_leaf_nodes=82):
+0.7516394435944396
+maxscore of DecisionTreeRegressor(max_leaf_nodes=83):
+0.8024462542537792
+maxscore of DecisionTreeRegressor(max_leaf_nodes=84):
+0.800844768102274
+maxscore of DecisionTreeRegressor(max_leaf_nodes=85):
+0.8612153194104375
+maxscore of DecisionTreeRegressor(max_leaf_nodes=86):
+0.7648596629218043
+maxscore of DecisionTreeRegressor(max_leaf_nodes=87):
+0.7497590269879296
+maxscore of DecisionTreeRegressor(max_leaf_nodes=88):
+0.7147902383472837
+maxscore of DecisionTreeRegressor(max_leaf_nodes=89):
+0.7485274702733764
+maxscore of DecisionTreeRegressor(max_leaf_nodes=90):
+0.8319709705319859
+maxscore of DecisionTreeRegressor(max_leaf_nodes=91):
+0.8138488469170935
+maxscore of DecisionTreeRegressor(max_leaf_nodes=92):
+0.813414544029535
+maxscore of DecisionTreeRegressor(max_leaf_nodes=93):
+0.7471961883800406
+maxscore of DecisionTreeRegressor(max_leaf_nodes=94):
+0.7746252152558215
+maxscore of DecisionTreeRegressor(max_leaf_nodes=95):
+0.735204664402211
+maxscore of DecisionTreeRegressor(max_leaf_nodes=96):
+0.7662240719582135
+maxscore of DecisionTreeRegressor(max_leaf_nodes=97):
+0.7862006882735555
+maxscore of DecisionTreeRegressor(max_leaf_nodes=98):
+0.8200891396974626
+maxscore of DecisionTreeRegressor(max_leaf_nodes=99):
+0.8598242964955216
+
+max score: DecisionTreeRegressor(max_leaf_nodes=27)
+0.8766584911197679
+training set : 80.0%
+maxscore of DecisionTreeRegressor(max_leaf_nodes=10):
+0.8880166402369761
+maxscore of DecisionTreeRegressor(max_leaf_nodes=11):
+0.8209210726088338
+maxscore of DecisionTreeRegressor(max_leaf_nodes=12):
+0.8594451199711204
+maxscore of DecisionTreeRegressor(max_leaf_nodes=13):
+0.7941925322991173
+maxscore of DecisionTreeRegressor(max_leaf_nodes=14):
+0.7672560402191569
+maxscore of DecisionTreeRegressor(max_leaf_nodes=15):
+0.7514861645797877
+maxscore of DecisionTreeRegressor(max_leaf_nodes=16):
+0.7818225344339728
+maxscore of DecisionTreeRegressor(max_leaf_nodes=17):
+0.81655559568471
+maxscore of DecisionTreeRegressor(max_leaf_nodes=18):
+0.8370504879644516
+maxscore of DecisionTreeRegressor(max_leaf_nodes=19):
+0.848805598122284
+maxscore of DecisionTreeRegressor(max_leaf_nodes=20):
+0.8233139276937758
+maxscore of DecisionTreeRegressor(max_leaf_nodes=21):
+0.8277440488625522
+maxscore of DecisionTreeRegressor(max_leaf_nodes=22):
+0.8174397707152485
+maxscore of DecisionTreeRegressor(max_leaf_nodes=23):
+0.7424676161803421
+maxscore of DecisionTreeRegressor(max_leaf_nodes=24):
+0.8106051029270248
+maxscore of DecisionTreeRegressor(max_leaf_nodes=25):
+0.7914691995515155
+maxscore of DecisionTreeRegressor(max_leaf_nodes=26):
+0.7519915623725678
+maxscore of DecisionTreeRegressor(max_leaf_nodes=27):
+0.8831713405437277
+maxscore of DecisionTreeRegressor(max_leaf_nodes=28):
+0.8205043196522603
+maxscore of DecisionTreeRegressor(max_leaf_nodes=29):
+0.7965794804132631
+maxscore of DecisionTreeRegressor(max_leaf_nodes=30):
+0.8026829741522925
+maxscore of DecisionTreeRegressor(max_leaf_nodes=31):
+0.7884712855417184
+maxscore of DecisionTreeRegressor(max_leaf_nodes=32):
+0.7734242453865772
+maxscore of DecisionTreeRegressor(max_leaf_nodes=33):
+0.828461593359213
+maxscore of DecisionTreeRegressor(max_leaf_nodes=34):
+0.7809210640617505
+maxscore of DecisionTreeRegressor(max_leaf_nodes=35):
+0.8006599039849296
+maxscore of DecisionTreeRegressor(max_leaf_nodes=36):
+0.8515385561369029
+maxscore of DecisionTreeRegressor(max_leaf_nodes=37):
+0.7944198897706414
+maxscore of DecisionTreeRegressor(max_leaf_nodes=38):
+0.7928600589023778
+maxscore of DecisionTreeRegressor(max_leaf_nodes=39):
+0.8417525083715457
+maxscore of DecisionTreeRegressor(max_leaf_nodes=40):
+0.7526588113765025
+maxscore of DecisionTreeRegressor(max_leaf_nodes=41):
+0.8161884292589946
+maxscore of DecisionTreeRegressor(max_leaf_nodes=42):
+0.8130577524293117
+maxscore of DecisionTreeRegressor(max_leaf_nodes=43):
+0.8131737932964329
+maxscore of DecisionTreeRegressor(max_leaf_nodes=44):
+0.718017383584424
+maxscore of DecisionTreeRegressor(max_leaf_nodes=45):
+0.8206234878968598
+maxscore of DecisionTreeRegressor(max_leaf_nodes=46):
+0.787848075798363
+maxscore of DecisionTreeRegressor(max_leaf_nodes=47):
+0.7481493630532943
+maxscore of DecisionTreeRegressor(max_leaf_nodes=48):
+0.8420242652316606
+maxscore of DecisionTreeRegressor(max_leaf_nodes=49):
+0.7584083363525684
+maxscore of DecisionTreeRegressor(max_leaf_nodes=50):
+0.750365349802257
+maxscore of DecisionTreeRegressor(max_leaf_nodes=51):
+0.8051197452187605
+maxscore of DecisionTreeRegressor(max_leaf_nodes=52):
+0.717024172462737
+maxscore of DecisionTreeRegressor(max_leaf_nodes=53):
+0.8079597971185906
+maxscore of DecisionTreeRegressor(max_leaf_nodes=54):
+0.7845560550182835
+maxscore of DecisionTreeRegressor(max_leaf_nodes=55):
+0.8024935460933235
+maxscore of DecisionTreeRegressor(max_leaf_nodes=56):
+0.8245451242223751
+maxscore of DecisionTreeRegressor(max_leaf_nodes=57):
+0.746216531056103
+maxscore of DecisionTreeRegressor(max_leaf_nodes=58):
+0.7782904845749647
+maxscore of DecisionTreeRegressor(max_leaf_nodes=59):
+0.7964068213694961
+maxscore of DecisionTreeRegressor(max_leaf_nodes=60):
+0.7705944706397005
+maxscore of DecisionTreeRegressor(max_leaf_nodes=61):
+0.7813064761032195
+maxscore of DecisionTreeRegressor(max_leaf_nodes=62):
+0.8829380805693153
+maxscore of DecisionTreeRegressor(max_leaf_nodes=63):
+0.7617567386653148
+maxscore of DecisionTreeRegressor(max_leaf_nodes=64):
+0.7901284672947394
+maxscore of DecisionTreeRegressor(max_leaf_nodes=65):
+0.8277673961910337
+maxscore of DecisionTreeRegressor(max_leaf_nodes=66):
+0.8155988261188843
+maxscore of DecisionTreeRegressor(max_leaf_nodes=67):
+0.7832652777195526
+maxscore of DecisionTreeRegressor(max_leaf_nodes=68):
+0.8488764597289244
+maxscore of DecisionTreeRegressor(max_leaf_nodes=69):
+0.7217762493681213
+maxscore of DecisionTreeRegressor(max_leaf_nodes=70):
+0.7689788013221034
+maxscore of DecisionTreeRegressor(max_leaf_nodes=71):
+0.8084459851298205
+maxscore of DecisionTreeRegressor(max_leaf_nodes=72):
+0.8571753639277558
+maxscore of DecisionTreeRegressor(max_leaf_nodes=73):
+0.7737744207575944
+maxscore of DecisionTreeRegressor(max_leaf_nodes=74):
+0.751844950341882
+maxscore of DecisionTreeRegressor(max_leaf_nodes=75):
+0.7373395369910947
+maxscore of DecisionTreeRegressor(max_leaf_nodes=76):
+0.8489838125440334
+maxscore of DecisionTreeRegressor(max_leaf_nodes=77):
+0.8055920788226392
+maxscore of DecisionTreeRegressor(max_leaf_nodes=78):
+0.7767239922203151
+maxscore of DecisionTreeRegressor(max_leaf_nodes=79):
+0.7329097141446724
+maxscore of DecisionTreeRegressor(max_leaf_nodes=80):
+0.8557944144741232
+maxscore of DecisionTreeRegressor(max_leaf_nodes=81):
+0.7703434342719278
+maxscore of DecisionTreeRegressor(max_leaf_nodes=82):
+0.7526598990828927
+maxscore of DecisionTreeRegressor(max_leaf_nodes=83):
+0.7135811167226127
+maxscore of DecisionTreeRegressor(max_leaf_nodes=84):
+0.7781654724846442
+maxscore of DecisionTreeRegressor(max_leaf_nodes=85):
+0.8167695104654563
+maxscore of DecisionTreeRegressor(max_leaf_nodes=86):
+0.762395208354187
+maxscore of DecisionTreeRegressor(max_leaf_nodes=87):
+0.7862664530312401
+maxscore of DecisionTreeRegressor(max_leaf_nodes=88):
+0.760558791743988
+maxscore of DecisionTreeRegressor(max_leaf_nodes=89):
+0.8343393955582039
+maxscore of DecisionTreeRegressor(max_leaf_nodes=90):
+0.7786483810162115
+maxscore of DecisionTreeRegressor(max_leaf_nodes=91):
+0.8590717415104823
+maxscore of DecisionTreeRegressor(max_leaf_nodes=92):
+0.8400535110788923
+maxscore of DecisionTreeRegressor(max_leaf_nodes=93):
+0.7860570351935942
+maxscore of DecisionTreeRegressor(max_leaf_nodes=94):
+0.7432090242298572
+maxscore of DecisionTreeRegressor(max_leaf_nodes=95):
+0.7803076405264368
+maxscore of DecisionTreeRegressor(max_leaf_nodes=96):
+0.7788018737451681
+maxscore of DecisionTreeRegressor(max_leaf_nodes=97):
+0.7304268967451935
+maxscore of DecisionTreeRegressor(max_leaf_nodes=98):
+0.7961556878593748
+maxscore of DecisionTreeRegressor(max_leaf_nodes=99):
+0.7801078811244241
+maxscore of DecisionTreeRegressor():
+0.7961291694122228
+
+max score: DecisionTreeRegressor(max_leaf_nodes=10)
+0.8880166402369761
+training set : 80.0%
+
+training set : 80.0%
+
+training set : 80.0%
+
+training set : 80.0%
+
+training set : 80.0%
+
+training set : 80.0%
+
+training set : 80.0%
+
+training set : 80.0%
+
+training set : 80.0%
+maxscore of DecisionTreeRegressor(max_leaf_nodes=27):
+0.7936101641616417
+
+training set : 80.0%
+maxscore of DecisionTreeRegressor(max_leaf_nodes=27):
+0.7615778151201986
+
+training set : 80.0%
+maxscore of DecisionTreeRegressor():
+0.7954716947541353
+
+training set : 80.0%
+maxscore of DecisionTreeRegressor():
+0.8944624178100227
+
+training set : 80.0%
